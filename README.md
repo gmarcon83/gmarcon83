@@ -1,5 +1,5 @@
 <h1>Giovanni Marcon</h1>
-<h3>Desenvolvedor fullstack em início de carreira.</h3>
+<h3>Desenvolvedor fullstack.</h3>
 
 <h3 align="left">Ferramentas e Linguagens:</h3>
 <p align="left">  
