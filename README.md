@@ -12,8 +12,6 @@
  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
  <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine"/>
- <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
- <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 <h3 align="left">Links:</h3>
