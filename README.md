@@ -13,15 +13,19 @@
  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
  <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine"/>
  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+ <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 <h3 align="left">Links:</h3>
 <p align="left">
  <div>
   <a href="https://www.linkedin.com/in/-giovanni-marcon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/artist/56ATpKJcOZoj5aXI1lWk32" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  
  </div>
 </p>
 
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gmarcon83&show_icons=true&locale=pt-br" alt="gmarcon83" /></p>
+
