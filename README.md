@@ -4,7 +4,7 @@
 
 I'm a software developer with an associate degree in IT Management. I've started programming mid 2020 and got accepted in a bootcamp in Jan 2021.
 
-- I am currently working at Capgemini as a junior full stack developer.
+- I am currently working at Global Hitss as a developer.
 
 <h2 align="center"> Working with </h2>
 
